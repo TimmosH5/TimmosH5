@@ -20,5 +20,3 @@ but now I'm focusing my efforts into **technical occupations** such as
 - 🧠 **SCRUM PSM-1** certified
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
