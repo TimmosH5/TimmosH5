@@ -10,6 +10,8 @@
 but now I'm focusing my efforts into **technical occupations** such as  
 **developing** & **testing**.
 
+In the code folders you'll find other README's for explaining the code. 
+
 ---
 
 ## 🛠️ Skills & Certifications
