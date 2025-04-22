@@ -1,4 +1,4 @@
-# 👋 (WORK IN PROGRESS)
+# 🚧 (WORK IN PROGRESS)
 
 # 👋 Hi there, I'm Tim!
 
@@ -19,8 +19,15 @@ but now I'm focusing my efforts into **technical occupations** such as
 - 🗄️ **SQL Basics** certified
 - 🤖 **Microsoft AI-900** certified
 - ☁️ **Microsoft AZ-900** certified
-- 🧠 **SCRUM PSM-1** certified
+- 🤝 **SCRUM PSM-1** certified
 
 ---
+
+## 🛠️ Area's currently growing in
+
+- 🧠 **Database x App integration**
+- 🧠 **RESTApi's**
+- 🧠 **Spring Boot**
+- 🧠 **React**
 
 - Thanks for visiting! 
