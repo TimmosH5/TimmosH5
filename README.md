@@ -10,7 +10,9 @@
 but now I'm focusing my efforts into **technical occupations** such as  
 **developing** & **testing**.
 
-In the code folders you'll find other README's for explaining the code. 
+In my portfolio you'll find different projects that showcase understanding of code
+into three layer design building, object oriented programming, user interaction & more.
+Check the Explainer.MD files for more explanations on the code!
 
 ---
 
